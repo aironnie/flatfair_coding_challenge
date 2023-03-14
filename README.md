@@ -27,13 +27,12 @@ Requirements
 
 
 
+Procedures
 
+Kindly Navigate to the 'flatfair.sql' file to view the data model solution
+- run sql commands in postgresql query editor to setup database
 
-
-
-FIRST STEP
-
-Kindly run the SQL Commmands in the 'flatfair.sql' file to 
+Navigate to the 'membership_fee_calculator.py' file to view the 'calculate_membership_fee()' function and run python script to test it
 
 
 
