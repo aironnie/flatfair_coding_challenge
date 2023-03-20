@@ -34,6 +34,8 @@ Kindly Navigate to the 'flatfair.sql' file to view the data model solution
 
 Navigate to the 'membership_fee_calculator.py' file to view the 'calculate_membership_fee()' function and run python script to test it
 
+membership_fee_calculator_V2.py contains an updated version of the calculate_membership_fee function.
+
 
 
 
